@@ -1,0 +1,3 @@
+#!/bin/sh
+git pull
+cp ./360kb/hosts  c:/windows/system32/drivers/etc
