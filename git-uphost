@@ -1,3 +1,9 @@
 #!/bin/sh
 git pull
-cp ./360kb/hosts  c:/windows/system32/drivers/etc
+#cp ./360kb/hosts  c:/windows/system32/drivers/etc
+if [ $(uname) == 'Linux' ]
+then
+	cp ./360kb/hosts /etc/hosts
+else
+	cp ./360kb/hosts  c:/windows/system32/drivers/etc
+fi
