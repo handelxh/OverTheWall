@@ -1,5 +1,5 @@
 #!/bin/sh
-git pull
+# git pull
 #cp ./360kb/hosts  c:/windows/system32/drivers/etc
 if [ $(uname) == 'Linux' ]
 then
