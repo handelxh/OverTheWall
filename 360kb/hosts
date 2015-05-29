@@ -1,25 +1,3 @@
-#+BEGIN
-#+UPDATE_TIME 2015.05.19 V2
-#+MESSAGE
-#######################################################################
-#
-#  360kb.host-ipv4
-#
-#  git：https://coding.net/u/levi/p/imouto-host/git
-#  订阅更新：https://list.qq.com/cgi-bin/qf_invite?id=b6eb34388fd016582957d6e50d005146e24fe6b166ee66c0
-#
-#  hosts 修改后若还需要正常观看youtube视屏，请查看下面这篇文章
-#  http://levi.cg.am/archives/3573
-#  
-#  部署hosts文件前请注意文本编码和换行符格式。
-#  错误报告前请尝试更新到最新版本，不接受老版本的错误报告。
-#
-#  数据来源于互联网上的无名英雄们
-#  感谢他们！
-#
-#######################################################################
-#+MESSAGE_END
-
 #google hosts 
 64.233.162.84    google.com
 64.233.162.84    www.google.com
@@ -755,4 +733,3 @@
 184.28.188.153 external.ak.fbcdn.net
 184.28.188.153 b.static.ak.fbcdn.net
 184.28.188.153 static.ak.fbcdn.net
-#facebook hosts 2015 end
