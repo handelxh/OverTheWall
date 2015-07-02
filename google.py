@@ -2,7 +2,7 @@
 #python3.3.5
 import urllib.request,os,time,platform,shutil
 # url='http://www.360kb.com/kb/2_150.html'
-url = 'https://gitcafe.com/phnessu4/imouto-host/raw/master/360kb/hosts'
+url = 'https://raw.githubusercontent.com/handelxh/OverTheWall/master/360kb/hosts'
 _360kb = urllib.request.urlopen(url)
 status = _360kb.code
 if platform.uname()[0]=='Windows':
