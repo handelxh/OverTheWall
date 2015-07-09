@@ -9,6 +9,7 @@ fi
 if [ $(uname) == 'Linux' ]
 then
 	cp ./360kb/hosts /etc/hosts
+	echo 'ubuntu is ok'
 fi
 if [[ $(uname) == 'MINGW32_NT-6.1' ]] 
 then
