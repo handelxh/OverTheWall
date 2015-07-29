@@ -14,5 +14,6 @@ fi
 if [[ $(uname) == 'MINGW32_NT-6.1' ]] 
 then
 	cp ./360kb/hosts  c:/windows/system32/drivers/etc
+	echo 'windows is ok'
 
 fi
